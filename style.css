@@ -12,3 +12,6 @@ table{
     height: 100px;
     font-size: 30px; 
 }
+th,td{
+    padding: 10px;  
+}

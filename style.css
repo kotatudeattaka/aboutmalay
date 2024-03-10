@@ -3,6 +3,9 @@ h1 {
     color: black;
     font-size: 50px;
   }
+  h2{
+    font-size: 40px;
+  }
 body{
     background-color: #008b8b;
 }

@@ -19,3 +19,6 @@ table{
 th,td{
     padding: 10px;  
 }
+li{
+  font-size: 5px;
+}
